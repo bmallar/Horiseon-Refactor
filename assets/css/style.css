@@ -21,11 +21,10 @@ body {
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    color:white;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
-}
+
 
 .header div {
     padding-top: 15px;
@@ -172,9 +171,10 @@ p {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.search-engine-optimization, h2 {
     margin-bottom: 20px;
     font-size: 36px;
+
 }
 
 .online-reputation-management h2 {
