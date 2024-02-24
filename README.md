@@ -1,7 +1,7 @@
 # Horiseon-Refactor
 These are the HTML and CSS changes that I made to complete challenge-01
    
-    HTML
+HTML--
 
 First I changed title in line 7 I 'making my tab name'
 
@@ -11,7 +11,7 @@ Next I added a id attribute to make the link that was not working.  NOTE-I actua
 
 Those were all the changes I made to the HTML.
     
-    CSS CONDENCING
+CSS CONDENCING--
 
 First I made a font-family: in the universal for the font that everything had. The only two without the universal font is the header and footer, which was the same.    NOTE-Didn't know how to combine the footer and header font family into one-NOTE
 
