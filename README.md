@@ -13,7 +13,7 @@ Those were all the changes I made to the HTML.
     
     CSS CONDENCING
 
-First I made a font-family: in the universal for the font that everything had. The only two without the universal font is the header and footer, which was the same.    NOTE-Didn't know how to combine these-NOTE
+First I made a font-family: in the universal for the font that everything had. The only two without the universal font is the header and footer, which was the same.    NOTE-Didn't know how to combine the footer and header font family into one-NOTE
 
 .benefit-lead, .benefit-brand, .benefit-cost all had the same CSS so I merged them using commas
 
@@ -27,7 +27,7 @@ First I made a font-family: in the universal for the font that everything had. T
 
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 all had the same CSS so I merged them using commas 
 
-![alt text](<Screenshot (3).png> "Title")
+![First challenge](<Screenshot (3).png> "Horiseon Finished")
 
 
 
